@@ -2,4 +2,6 @@
 const greeting: string = "Hello, Typescript!";
 console.log(greeting);
 
-// 
+// number type annotation
+let age: number = 18;
+console.log(`Age: ${age}`);
