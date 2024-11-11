@@ -10,3 +10,9 @@ console.log(`Age: ${age}`);
 let isActive: boolean = true;
 console.log(`Is Active: ${isActive}`);
 
+// null and undefined type annotation
+let emptyValue: null = null;
+let notAssigned: undefined = undefined;
+console.log(`Empty Value: ${emptyValue}, Not Assigned: ${notAssigned}`);
+
+
